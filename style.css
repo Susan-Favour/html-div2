@@ -38,3 +38,15 @@
     width: 65%
 
 }
+.socials{
+    width:60%;
+    height: 15%;
+   
+}
+.icons{
+    display:flex;
+    justify-content: space-between;
+}
+button{
+    width:40%;
+}
